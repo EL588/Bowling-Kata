@@ -1,0 +1,14 @@
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\bin\Debug\net6.0\bowlingScoreCalculator.exe
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\bin\Debug\net6.0\bowlingScoreCalculator.deps.json
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\bin\Debug\net6.0\bowlingScoreCalculator.runtimeconfig.json
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\bin\Debug\net6.0\bowlingScoreCalculator.dll
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\bin\Debug\net6.0\bowlingScoreCalculator.pdb
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\obj\Debug\net6.0\bowlingScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\obj\Debug\net6.0\bowlingScoreCalculator.AssemblyInfoInputs.cache
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\obj\Debug\net6.0\bowlingScoreCalculator.AssemblyInfo.cs
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\obj\Debug\net6.0\bowlingScoreCalculator.csproj.CoreCompileInputs.cache
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\obj\Debug\net6.0\bowlingScoreCalculator.dll
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\obj\Debug\net6.0\refint\bowlingScoreCalculator.dll
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\obj\Debug\net6.0\bowlingScoreCalculator.pdb
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\obj\Debug\net6.0\bowlingScoreCalculator.genruntimeconfig.cache
+C:\dev\bowlingScoreCalculator\bowlingScoreCalculator\obj\Debug\net6.0\ref\bowlingScoreCalculator.dll
